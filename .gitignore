@@ -1,0 +1,16 @@
+# npm
+node_modules/
+build/
+npm_cache/
+dist/
+node/
+target/
+
+# IntelliJ
+.idea
+*.iml
+# vscode
+.vscode
+
+.profile
+.DS_Store
